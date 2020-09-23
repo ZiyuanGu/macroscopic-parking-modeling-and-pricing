@@ -3,7 +3,6 @@
 Simulating an accumulation-based macrosopic parking dynamics model based on the macroscopic or network fundamental diagram (MFD or NFD) and implementing two real-time parking pricing strategies based on proportional-integral (PI) feedback control and model predictive control (MPC), respectively.
 
 # Paper:
-
 Gu, Z., Najmi, A., Saberi, M., Liu, W., Rashidi, T.H., 2020. Macroscopic parking dynamics modeling and optimal real-time pricing considering cruising-for-parking. Transp. Res. Part C 118, 102714.
 
 # Some references:
